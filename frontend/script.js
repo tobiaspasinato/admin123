@@ -18,7 +18,6 @@ function multiplicar(){
 }
 
 
-
 document.addEventListener("DOMContentLoaded", () => {
 
 });
